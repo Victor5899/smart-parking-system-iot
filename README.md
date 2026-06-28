@@ -1,9 +1,9 @@
-# 🚗 Smart Parking System using ESP8266 and Blynk
+#  Smart Parking System using ESP8266 and Blynk
 
 An IoT-based Smart Parking System that detects vehicle occupancy using IR sensors and displays real-time parking status on the Blynk Cloud Dashboard.
 ---
 
-## 📌 Features
+##  Features
 
 - Real-time parking monitoring
 - Automatic vehicle detection
@@ -14,11 +14,11 @@ An IoT-based Smart Parking System that detects vehicle occupancy using IR sensor
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
 Watch the Smart Parking System in action:
 
-**📹 Demo Video:**  
+** Demo Video:**  
 https://drive.google.com/file/d/1FKc2zm_F-WDng9v046etjqTMGeNcth5D/view?usp=drivesdk
 
 The demo showcases:
@@ -30,7 +30,7 @@ The demo showcases:
 
 ---
 
-## 🛠 Hardware Used
+##  Hardware Used
 
 - ESP8266 NodeMCU
 - 4 × IR Sensors
@@ -40,7 +40,7 @@ The demo showcases:
 
 ---
 
-## 💻 Software Used
+##  Software Used
 
 - Arduino IDE
 - Embedded C++
@@ -48,7 +48,7 @@ The demo showcases:
 
 ---
 
-## ⚙ Working
+##  Working
 
 1. IR sensors detect vehicles.
 2. ESP8266 reads sensor values.
@@ -58,19 +58,7 @@ The demo showcases:
 
 ---
 
-## 📷 Project Images
-
-(Add your images here)
-
----
-
-## 📊 Dashboard
-
-(Add dashboard screenshot)
-
----
-
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Servo gate automation
 - Mobile notifications
@@ -80,6 +68,6 @@ The demo showcases:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Victor
